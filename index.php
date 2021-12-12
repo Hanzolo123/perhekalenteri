@@ -55,7 +55,7 @@
     </section>
     <footer>
       <hr>
-      <div>perhekalenteri by Kurpitsa</div>
+      <div>perhekalenteri by hanzolo123</div>
     </footer>
   </body>
 </html>
